@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Infohub</h1>
+<h1 align="center" id="title">WaveLink</h1>
 
 <p id="description">WaveLink is a captivating single-page mini project created exclusively with HTML and CSS. This project serves as a streamlined hub that elegantly weaves together all your social media profiles into a cohesive online presence. With its clean design and intuitive navigation, WaveLink provides a visually engaging experience for visitors looking to connect with you across various platforms. Seamlessly integrating your social links, WaveLink offers a glimpse into your diverse online world, making it easy for friends, followers, and colleagues to explore and engage with your web presence.</p>
 
