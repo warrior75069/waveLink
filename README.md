@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[http://infohubplus.infinityfreeapp.com/](http://infohubplus.infinityfreeapp.com/)
+[[http://infohubplus.infinityfreeapp.com/](http://infohubplus.infinityfreeapp.com/)](https://warrior75069.github.io/waveLink/)
 
   
   
