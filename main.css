@@ -14,19 +14,22 @@ body {
     overflow: hidden;
     margin: 0;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh; /* Set height to 100% viewport height */
+    flex-direction: column;
+    justify-content: space-between; /* Center vertically and space-between to push the footer down */
+    min-height: 100vh; /* Set min-height to 100% viewport height */
 }
 
 /* Style the main container */
 .container {
     width: 100%;
+    max-width: 400px; /* Limit the container width for readability */
+    margin: auto;
     padding: 20px;
     text-align: center;
     color: white;
     box-sizing: border-box;
-    background-color: rgba(0, 0, 0, 0.8); /* Add a semi-transparent background color */
+    background-color: rgba(0, 0, 0, 0.621); /* Add a semi-transparent background color */
+    border-radius: 10px;
 }
 
 /* Style the user profile image */
@@ -76,5 +79,6 @@ footer {
     text-align: center;
     color: white;
     text-shadow: 0 1px rgba(255, 255, 255, 0.1);
-    margin-top: 20px;
+    font-size: 14px;
+    padding: 10px 0;
 }
