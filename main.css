@@ -2,7 +2,6 @@ body{
     background-image: url(bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     overflow:hidden;
 }
@@ -59,3 +58,4 @@ body{
     color: white;
     text-shadow: 0 1px rgba(255, 255, 255, 0.1);
   }
+
