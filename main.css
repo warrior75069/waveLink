@@ -63,6 +63,10 @@ footer {
 @media screen and (max-width: 768px) {
     .container {
         padding: 10px;
+        height: 100vh; /* Set height to 100% viewport height */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around; 
     }
     
     .user_info h4 {
