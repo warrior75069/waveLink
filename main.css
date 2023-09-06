@@ -22,34 +22,34 @@ body {
 /* Style the main container */
 .container {
     width: 100%;
-    max-width: 400px; /* Limit the container width for readability */
+    max-width: 500px; /* Increase the container width */
     margin: auto;
-    padding: 20px;
+    padding: 30px; /* Increase padding for better spacing */
     text-align: center;
     color: white;
     box-sizing: border-box;
-    background-color: rgba(0, 0, 0, 0.621); /* Add a semi-transparent background color */
+    background-color: rgba(0, 0, 0, 0.8); /* Add a semi-transparent background color */
     border-radius: 10px;
 }
 
 /* Style the user profile image */
 .user_profile {
     border-radius: 50%;
-    max-width: 150px;
+    max-width: 200px; /* Increase the user profile image size */
     height: auto;
     margin: 20px 0;
 }
 
 /* Style the user info */
 .user_info h4 {
-    font-size: 24px;
+    font-size: 28px; /* Increase font size for better readability */
     font-weight: bold;
-    margin: 10px 0;
+    margin: 20px 0; /* Increase margin for spacing */
 }
 
 .user_info h5 {
-    font-size: 16px;
-    margin: 5px 0;
+    font-size: 18px; /* Increase font size for better readability */
+    margin: 10px 0; /* Increase margin for spacing */
 }
 
 /* Style the links container */
@@ -57,7 +57,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 30px; /* Increase margin for spacing */
 }
 
 /* Style the buttons */
@@ -65,12 +65,12 @@ body {
     background-color: #7f00ff;
     border: none;
     color: white;
-    padding: 10px 20px;
+    padding: 15px 30px; /* Increase padding for better spacing */
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-    margin: 10px 0;
+    font-size: 20px; /* Increase font size for better readability */
+    margin: 15px 0; /* Increase margin for spacing */
     border-radius: 5px;
     min-width: 50%; /* Adjust the button width for smaller screens */
 }
@@ -79,6 +79,6 @@ footer {
     text-align: center;
     color: white;
     text-shadow: 0 1px rgba(255, 255, 255, 0.1);
-    font-size: 14px;
-    padding: 10px 0;
+    font-size: 18px; /* Increase font size for better readability */
+    padding: 20px 0; /* Increase padding for spacing */
 }
