@@ -1,36 +1,32 @@
-# TaskMaster
+# WaveLink
 
-TaskMaster is a web application that helps you efficiently manage your tasks and to-do lists. It's built with HTML, CSS, and JavaScript, providing a simple and intuitive interface to organize your daily tasks. Whether you need to keep track of work-related assignments or personal chores, TaskMaster has you covered.
+WaveLink is a captivating single-page mini project created exclusively with HTML and CSS. This project serves as a streamlined hub that elegantly weaves together all your social media profiles into a cohesive online presence. With its clean design and intuitive navigation, WaveLink provides a visually engaging experience for visitors looking to connect with you across various platforms. Seamlessly integrating your social links, WaveLink offers a glimpse into your diverse online world, making it easy for friends, followers, and colleagues to explore and engage with your web presence.
 
-## Features
+## 🚀 Demo
 
-- **Task List:** Add, remove tasks on your to-do list.
-- **Responsive Design:** Access your tasks on various devices; TaskMaster is fully responsive.
+You can experience WaveLink in action by visiting the live demo: [WaveLink Demo](https://warrior75069.github.io/waveLink/)
 
-## Demo
+## 🧐 Features
 
-You can try TaskMaster here: [TaskMaster Demo]((https://warrior75069.github.io/TaskMaster/))
+Here are some of the project's best features:
 
-## Installation
+- **Centralized Hub**: WaveLink acts as a centralized hub that consolidates your social media profiles, providing a one-stop location for visitors to connect with you.
 
-1. Clone the repository or download the ZIP file.
-2. Open the `index.html` file in your web browser.
+- **Responsive Design**: The project is designed to be fully responsive, ensuring that it looks great on various screen sizes and devices.
 
-## Usage
+- **Customizable Icons**: Customize the icons and links to match your online presence and personal style.
 
-- **Adding Tasks:** Click the "Add Task" button and enter your task details.
-- **Removing Tasks:** Click the "Delete" button to remove a task.
+- **Effortless Navigation**: The intuitive navigation makes it easy for visitors to find and connect with you on different social platforms.
 
-## Contributing
+- **Quick Loading**: WaveLink is designed for fast loading times, ensuring a seamless user experience.
 
-Contributions are welcome! If you'd like to improve TaskMaster, feel free to submit a pull request.
+## 💻 Built with
 
-## License
+Technologies used in the project:
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- HTML
+- CSS
 
-## Contact
+## Show your support
 
-If you have any questions or suggestions, please feel free to contact us at [email@example.com](mailto:email@example.com).
-
-Enjoy managing your tasks with TaskMaster! 🚀
+If you like this website, please give it a ⭐ on GitHub! Your support is greatly appreciated.
