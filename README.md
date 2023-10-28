@@ -1,31 +1,36 @@
-<h1 align="center" id="title">WaveLink</h1>
+# TaskMaster
 
-<p id="description">WaveLink is a captivating single-page mini project created exclusively with HTML and CSS. This project serves as a streamlined hub that elegantly weaves together all your social media profiles into a cohesive online presence. With its clean design and intuitive navigation, WaveLink provides a visually engaging experience for visitors looking to connect with you across various platforms. Seamlessly integrating your social links, WaveLink offers a glimpse into your diverse online world, making it easy for friends, followers, and colleagues to explore and engage with your web presence.</p>
+TaskMaster is a web application that helps you efficiently manage your tasks and to-do lists. It's built with HTML, CSS, and JavaScript, providing a simple and intuitive interface to organize your daily tasks. Whether you need to keep track of work-related assignments or personal chores, TaskMaster has you covered.
 
-<h2>🚀 Demo</h2>
+## Features
 
-https://warrior75069.github.io/waveLink/
+- **Task List:** Add, remove tasks on your to-do list.
+- **Responsive Design:** Access your tasks on various devices; TaskMaster is fully responsive.
 
-  
-  
-<h2>🧐 Features</h2>
+## Demo
 
-Here're some of the project's best features:
+You can try TaskMaster here: [TaskMaster Demo]((https://warrior75069.github.io/TaskMaster/))
 
-*   Centralized Hub
-*   Responsive Design
-*   Customizable Icons
-*   Effortless Navigation
-*   Quick Loading
+## Installation
 
-  
-  
-<h2>💻 Built with</h2>
+1. Clone the repository or download the ZIP file.
+2. Open the `index.html` file in your web browser.
 
-Technologies used in the project:
+## Usage
 
-*   Html
-*   Css
+- **Adding Tasks:** Click the "Add Task" button and enter your task details.
+- **Removing Tasks:** Click the "Delete" button to remove a task.
 
-<h2> Show your support</h2>
-Give a ⭐ if you like this website!
+## Contributing
+
+Contributions are welcome! If you'd like to improve TaskMaster, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Contact
+
+If you have any questions or suggestions, please feel free to contact us at [email@example.com](mailto:email@example.com).
+
+Enjoy managing your tasks with TaskMaster! 🚀
